@@ -1,0 +1,1 @@
+# expo-ui-android-element-colors-bug-repro-patched
