@@ -7,8 +7,7 @@ This repository demonstrates the Android crash described in [expo/expo#43960](ht
 ### Before / After screenshots
 | Before (crash) | After (works) |
 |---|---|
-| <img width="318" height="668" alt="image" src="https://github.com/user-attachments/assets/43d26069-c31f-446a-9193-71687d4410a8" />
- | <img width="316" height="681" alt="image" src="https://github.com/user-attachments/assets/5d3ee1a9-eb31-4ce2-aad6-f89d276e7ee6" /> |
+| <img width="318" height="668" alt="image" src="https://github.com/user-attachments/assets/43d26069-c31f-446a-9193-71687d4410a8" />| <img width="316" height="681" alt="image" src="https://github.com/user-attachments/assets/5d3ee1a9-eb31-4ce2-aad6-f89d276e7ee6" /> |
 
 ## Prerequisites
 
