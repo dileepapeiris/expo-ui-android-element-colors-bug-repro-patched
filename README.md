@@ -53,4 +53,3 @@ elementColors={{
 
 - **Main Issue:** [expo/expo#43960](https://github.com/expo/expo/issues/43960)
 - **Original Upstream Repro:** [MariooC14/expo-ui-android-element-colors-bug-repro](https://github.com/MariooC14/expo-ui-android-element-colors-bug-repro)
-```
