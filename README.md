@@ -18,13 +18,13 @@ This repository demonstrates the Android crash described in [expo/expo#43960](ht
 
 1. **Clone and install dependencies:**
    ```bash
-   yarn install
+   npm install
    ```
 
 2. **Apply the fix (via patch-package):**
    This repo uses `patch-package` to apply the fix to `expo-modules-core` inside `node_modules` without requiring a custom build of the entire Expo monorepo.
    ```bash
-   yarn postinstall
+   npm postinstall
    ```
 
 ## Running the Repro
